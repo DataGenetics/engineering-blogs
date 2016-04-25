@@ -397,6 +397,7 @@
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu http://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
+* DataGenetics http://datagenetics.com/blog.html
 * DataRadar.io https://www.dataradar.io/
 * Dave Atchley http://www.datchley.name/
 * Dave Beazley http://www.dabeaz.com/blog.html
